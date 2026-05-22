@@ -1,0 +1,7 @@
+/* GXON Admin Template */
+@import '../assets/css/styles.css';
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
